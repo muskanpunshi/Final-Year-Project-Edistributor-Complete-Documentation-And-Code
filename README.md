@@ -1,6 +1,10 @@
 # EDistributor-FYP
 This repository contains sub folders of our final year project 
 
+Project Title:
+E-Distributors
+
+
 Group Members:
 Muskan(1812125)
 Harmeet Jot(1812150)
