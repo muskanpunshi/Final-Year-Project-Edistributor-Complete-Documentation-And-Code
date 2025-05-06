@@ -1,5 +1,5 @@
 # EDistributor-FYP
-This repository contains sub folders of our final year project 
+This repository contains sub folders of our final year project which includes Documentation and Code.
 
 Project Title:
 E-Distributors
